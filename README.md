@@ -1,1 +1,1 @@
-# Photo-Gallery-P6
+# Photo-Gallery-6th Project
